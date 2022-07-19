@@ -1,4 +1,4 @@
-name: vaib
+name: bb_damage
 channels:
   - pytorch
   - conda-forge
