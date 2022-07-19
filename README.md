@@ -1,6 +1,6 @@
 # Classification of Bark Beetle-Induced Forest Tree Mortality using Deep Learning
 
-This is the code repository for the extended abstract submitted to the VAIB workshop to be presented at ICPR 2022. The [pre-print](https://arxiv.org/abs/2207.07241) is available on ArXiv. The task is to classify individual tree crowns into four different attack stages of bark beetle infestation from UAV-captured RGB images. 
+This is the code repository for the extended abstract submitted to the [VAIB workshop](https://homepages.inf.ed.ac.uk/rbf/vaib22.html) to be presented at ICPR 2022. The [pre-print](https://arxiv.org/abs/2207.07241) is available on ArXiv. The task is to classify individual tree crowns into four different attack stages of bark beetle infestation from UAV-captured RGB images. 
 
 
 ## Repository Organization
